@@ -8,10 +8,4 @@ Locally hosted using Nginx reverse proxy/ load balancer.
 Uses Python Fast API for communication between Frontend -> Backend -> Storage.
 
 
-## Features:
-<br />
-Ability to add and remove appointments <br />
-![demo](./assets/1.gif)
-
-
 
